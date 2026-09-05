@@ -1,0 +1,12 @@
+{
+  "apiKey": "YOUR_OPENWEATHERMAP_API_KEY",
+  "units": "metric",
+  "language": "en",
+  "updateInterval": 600000,
+  "features": {
+    "currentWeather": true,
+    "forecast": true,
+    "savedLocations": true,
+    "localTime": true
+  }
+}
