@@ -1,5 +1,5 @@
 // Configuration
-const API_KEY = 'YOUR_6867d508bf56038b0ec607b2728ca1f7'; // Get your key from https://openweathermap.org/api
+const API_KEY = '6867d508bf56038b0ec607b2728ca1f7'; // Get your key from https://openweathermap.org/api
 const API_BASE_URL = 'https://api.openweathermap.org/data/2.5';
 const STORAGE_KEY = 'savedLocations';
 
